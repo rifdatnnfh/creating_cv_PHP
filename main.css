@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #ffdaa3;
+    color: rgb(208, 83, 5);
+}
+
+.coklat {
+    background-color: #ffdaa3;
+}
+
+.card {
+    max-width: 960px;
+    margin: 20px auto;
+}
+
+.comment {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.btn-primary {
+    background-color: brown;
+    border-color: brown;
+    color: white;
+}
+
+.navbar-brand {
+    color: brown;
+}
+
+.img-thumbnail {
+    width: 200px;
+    float: right;
+    border-radius: 50%;
+    margin-right: 10px;
+}
